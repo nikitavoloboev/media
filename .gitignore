@@ -6,11 +6,17 @@ output
 dist
 target
 .idea
+.cache
+.output
 node_modules
 package-lock.json
+yarn.lock
 pnpm-lock.yaml
 .vercel
 private
 private.*
 private-*
 past.*
+past-*
+*.bike
+*.db
